@@ -1,5 +1,5 @@
 # Kattis-Solution
-Lausnir fyrir kattis verkefni 
+Nokkur forritunarverkefni frá síðunni [Kattis](https://open.kattis.com/universities/hi.is)
 
 Proplems:<br>
 [A Question of ingestion](https://open.kattis.com/problems/ingestion) <br>
