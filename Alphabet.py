@@ -9,7 +9,6 @@ Created on Tue Feb  2 16:00:49 2021
 #print(alphabet)
 #print(len(alphabet))
 
-#Skoða þetta betur
 def lcs(s1, s2):
     table = [[0 for i in range(len(s1) + 1)] for j in range(len(s2) + 1)]
     for i in range(1, len(s2)+1):
